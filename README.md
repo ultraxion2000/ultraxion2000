@@ -2,10 +2,10 @@
 ## I'm beginner Software Engineer
 
 ### Languages
-![Kotlin](https://img.shields.io/badge/-Kotlin-0E2336?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-0E2336?style=for-the-badge&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-0E2336?style=for-the-badge&logo=C%2b%2b)
 ![C++](https://img.shields.io/badge/-C-0E2336?style=for-the-badge&logo=C)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0E2336?style=for-the-badge&logo=Kotlin)
 ![Sql](https://img.shields.io/badge/-SQL-0E2336?style=for-the-badge&logo=mysql)
 
 ### Social Networks 
